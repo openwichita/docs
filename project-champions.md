@@ -24,14 +24,15 @@ tech-driven projects that create local impact. What more could you ask for?
  
 ## Expectations
  
-- Check in once a week with Open Wichita leadership and other project champions.
+- Check in once a week with [Open Wichita Captains](https://github.com/openwichita/docs/blob/master/captains.md#roster) and other Project Champions.
+  - Join the private #project-champions channel on Slack.
   - Should include any progress made, next steps, and whatever might be blocking
     progress on the project.
 - Take lead on forming execution plan for the project.
   - Involving others is highly encouraged! Though final say and responsibility is yours.
   - Turn the plan into Github Issues and Projects with useful names and tags.
 - Be excited about the project, and enjoy yourself!
-  - Being a champion for a project means you advocate for and believe in it!
+  - Being a Champion for a project means you advocate for and believe in it!
   - Choose a project or idea that gets you excited. It makes the whole process better!
 - Communicate!
   - This whole process is made much simpler with regular honest communication.
@@ -58,7 +59,7 @@ tech-driven projects that create local impact. What more could you ask for?
     - Create Github tags (non-tech, java, graphic design)
     - Create Github issues/projects with organized tasks
     - Create the channel in Slack to match the github project name
-    - Ask OW leadership to create Slack & Github integrations
+    - Ask [Open Wichita Captains](https://github.com/openwichita/docs/blob/master/captains.md#roster) to create Slack & Github integrations
   - Identify professional/city personnel (stakeholders) to use as resources.
   - Identify similar projects created by other brigades that can be built upon or adapted
 - **Weekly process**
@@ -79,7 +80,7 @@ tech-driven projects that create local impact. What more could you ask for?
   - Share beta version of project with #general slack channel for looking over/suggestions.
   - Share project with connected stakeholders for feedback.
 - **Launch!**
-  - Coordinate launch with OW leadership for social media shoutouts.
+  - Coordinate launch with [Open Wichita Captains](https://github.com/openwichita/docs/blob/master/captains.md#roster) for social media shoutouts.
   - Consider contacting other media/putting out a press release (utilize stakeholder resources if possible!).
 - **Maintain/Improve**
   - ...
