@@ -6,7 +6,8 @@ Hello! Welcome to Open Wichita. We are the local [Code for America](https://code
 :octocat: We plan, coordinate, and work on projects on [Github](https://github.com/openwichita).  
 :calendar: Our in-person and virtual meetups are on [Meetup](https://www.meetup.com/openwichita/).  
 :thumbsup: We also post in-person events on [Facebook](https://www.facebook.com/openwichita/).  
-:bird: We post updates and news on [Twitter](https://www.twitter.com/openwichita).
+:bird: We post updates and news on [Twitter](https://www.twitter.com/openwichita).  
+:shipit: Any questions? Contact an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster)!
 
 ## We're civic hackers!
 Civic hacking is the idea that small solutions can cause real impact. It's about understanding an issue, creating something to help the problem, see the impact it creates, and adapting based on the information.
@@ -29,10 +30,10 @@ Our projects are how we engage with the community. Making someone's life a bit b
 ### Want to find something to work on?
 We have many [existing projects](https://github.com/openwichita). Browse through those to see if there is something you want to help with. Many of the projects have issues and new features that where help is wanted. Check out those help wanted tasks at https://help.openwichita.com/
 
-We also have many existing [project ideas](https://github.com/openwichita/project-ideas/issues). Give a :thumbsup: to vote on ideas you'd like to see. If you want to [champion](#project-champions) an idea talk to an Open Wichita organizer.
+We also have many existing [project ideas](https://github.com/openwichita/project-ideas/issues). Give a :thumbsup: to vote on ideas you'd like to see. If you want to [champion](#project-champions) an idea talk to an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster).
 
 ### Have an idea for a new project?
-If you have an idea for a new project we'd love to hear about it. Please [submit your idea](https://github.com/openwichita/project-ideas/issues/new) and we'll check it out. Let us know if you are willing to ["champion" the project](#project-champions). If enough people are willing to work on your idea, we'll help you make it happen.
+If you have an idea for a new project we'd love to hear about it. Please [submit your idea](https://github.com/openwichita/project-ideas/issues/new) and we'll check it out. Let an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster) know if you are willing to ["champion" the project](#project-champions). If enough people are willing to work on your idea, we'll help you make it happen.
 
 ## Project Champions
 :trophy: [Learn more about becoming a Project Champion](https://github.com/openwichita/docs/blob/master/project-champions.md).
