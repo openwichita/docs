@@ -23,9 +23,15 @@ We do this by:
 * Our primary function is our project work. Everything we create as a community is open source and hosted on GitHub.
 
 ## Projects
+Our projects are how we engage with the community. Making someone's life a bit better is the goal of every project.
 
 ### Want to find something to work on?
-https://help.openwichita.com/
+We have many [existing projects](https://github.com/openwichita). Browse through those to see if there is something you want to help with. Many of the projects have issues and new features that where help is wanted. Check out those help wanted tasks at https://help.openwichita.com/
+
+We also have many existing [project ideas](https://github.com/openwichita/project-ideas/issues). Give a :thumbsup: to vote on ideas you'd like to see. If you want to champion an idea talk to an Open Wichita organizer.
 
 ### Have an idea for a new project?
-https://github.com/openwichita/project-ideas
+If you have an idea for a new project we'd love to hear about it. Please [submit your idea](https://github.com/openwichita/project-ideas/issues/new) and we'll check it out. Let us know if you are willing to "champion" the project. If enough people are willing to work on your idea, we'll help you make it happen.
+
+## Project Champions
+:trophy:
