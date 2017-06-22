@@ -5,7 +5,8 @@ Hello! Welcome to Open Wichita. We are the local [Code for America](https://code
 :speech_balloon: We chat and organize on [Slack](https://openwichita.slack.com).  
 :octocat: We plan, coordinate, and work on projects on [Github](https://github.com/openwichita).  
 :calendar: Our in-person and virtual meetups are on [Meetup](https://www.meetup.com/openwichita/).  
-:bird: We post updates and news on [Twitter](https://www.twitter.com/openwichita)
+:thumbsup: We also post in-person events on [Facebook](https://www.facebook.com/openwichita/).  
+:bird: We post updates and news on [Twitter](https://www.twitter.com/openwichita).
 
 ## We're civic hackers!
 Civic hacking is the idea that small solutions can cause real impact. It's about understanding an issue, creating something to help the problem, see the impact it creates, and adapting based on the information.
