@@ -1,5 +1,5 @@
 # Onboarding Guide: Civic Hacking and You!
-Hello! Welcome to Open Wichita. We are the local [Code for America](https://codeforamerica.org) brigade for Wichita, KS. Our mission is to foster a community of civic involvement through technology and education. We want to help citizen, government, and nonprofit stakeholders solve problems.
+Hello! Welcome to Open Wichita. We are the local [Code for America](https://codeforamerica.org) brigade for Wichita, KS. Our mission is to foster a community of civic involvement through technology and education. We want to help citizen, government, and nonprofit stakeholders solve problems. Open Wichita is committed to providing a welcoming and inclusive environment for all, read the [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) for more information.
 
 ## Quick reference
 :speech_balloon: We chat and organize on [Slack](https://openwichita.slack.com).  
