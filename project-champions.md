@@ -83,7 +83,16 @@ tech-driven projects that create local impact. What more could you ask for?
   - Coordinate launch with [Open Wichita Captains](https://github.com/openwichita/docs/blob/master/captains.md#roster) for social media shoutouts.
   - Consider contacting other media/putting out a press release (utilize stakeholder resources if possible!).
 - **Maintain/Improve**
-  - ...
+  - Keep track of possible improvements as GitHub issues.
+    - As always, tag with `help-wanted` and anything else that's relevant.
+  - Also file any bugs or problems as GitHub issues.
+    - Encourage others to do the same!
+    - Having a link on the launched site to submit a bug on GitHub is also good.
 - **Project Handoff**
-  - ...
+  - First, talk to an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster) to let them know you're ready to step down.
+  - Have a replacement Champion ready or at least in mind.
+    - Always check with those who are already actively involved in the project first.
+  - Once confirmed, take some time to go over the project with the new Champion.
+  - Once handoff is completed, we ask that you stay available for questions to
+    the new Champion for at least a month.
 
