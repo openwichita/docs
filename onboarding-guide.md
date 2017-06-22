@@ -35,5 +35,23 @@ We also have many existing [project ideas](https://github.com/openwichita/projec
 ### Have an idea for a new project?
 If you have an idea for a new project we'd love to hear about it. Please [submit your idea](https://github.com/openwichita/project-ideas/issues/new) and we'll check it out. Let an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster) know if you are willing to ["champion" the project](#project-champions). If enough people are willing to work on your idea, we'll help you make it happen.
 
+### Github
+Have an [Open Wichita Captain](https://github.com/openwichita/docs/blob/master/captains.md#roster) create the main repo under the Open Wichita organization. You can also [migrate existing repos to our organization](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/) but this will take some timely coordination on both sides.
+
+#### Features and bugs
+Use the Github issue system to track both features and bugs, using the appropriate tags for both. If you are looking for extra help, be sure to tag issues with the "help wanted" tag. Our [Help Wanted tracker](https://help.openwichita.com/) will automatically pull those in. The Project Champion should make sure that issues are closed and cleaned up as they should be. Too much noise makes it hard for others to get involved.
+
+#### License
+For a project to be supported by Open Wichita it must have an Open Source license. Specifically, the [GNU GPLv3 license](https://choosealicense.com/licenses/gpl-3.0/). Among other things, this license requires anyone who distributes the code or a derivative work to make the source available under the same terms. In short, we want our projects to help future open source projects.
+
+### Technology
+We do not require specific programming languages or technology stacks. However, we encourage you to use languages and frameworks that many contributors will be familiar and comfortable with. Keep in mind that if your language or framework is obscure you may not receive much help.
+
+A survey of our contributors found that most people are familiar with Javascript and so we recommend starting projects with Javascript on the front-end and back-end ([node.js](https://nodejs.org)). For the browser, sticking with simple vanilla Javascript is best. If needed, use a popular framework such as JQuery.
+
+[Bootstrap](http://getbootstrap.com/) is a fast and simple way to start a web front-end that many people can help with.
+
+While we love CSS preprocessors, we recommend sticking with vanilla CSS to make it easy for people to contribute.
+
 ## Project Champions
 :trophy: [Learn more about becoming a Project Champion](https://github.com/openwichita/docs/blob/master/project-champions.md).
