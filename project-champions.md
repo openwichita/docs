@@ -40,13 +40,6 @@ tech-driven projects that create local impact. What more could you ask for?
     difficult. Being open about things will allow us to do what we can to
     assist!
  
-## Resources
- 
-- Github tutorials
-- Slack tutorials?
-- Project management tips?
-- Template for weekly check in message?
- 
 ## Process
  
 - **Getting started**
@@ -96,3 +89,10 @@ tech-driven projects that create local impact. What more could you ask for?
   - Once handoff is completed, we ask that you stay available for questions to
     the new Champion for at least a month.
 
+## Resources
+ 
+- [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/)
+- [More GitHub Guides](https://guides.github.com/)
+- [Git & GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/)
+- [GitHub Features for PM](https://github.com/features/project-management/)
+- [Slack Guides, Tips and Tricks](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides)
