@@ -35,4 +35,4 @@ We also have many existing [project ideas](https://github.com/openwichita/projec
 If you have an idea for a new project we'd love to hear about it. Please [submit your idea](https://github.com/openwichita/project-ideas/issues/new) and we'll check it out. Let us know if you are willing to "champion" the project. If enough people are willing to work on your idea, we'll help you make it happen.
 
 ## Project Champions
-:trophy:
+:trophy: [Learn more about becoming a Project Champion](https://github.com/openwichita/docs/blob/master/project-champions.md).
