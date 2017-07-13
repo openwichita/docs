@@ -86,7 +86,7 @@ things happening in the civic tech world, and it all starts with the people.
 
 ## I'm ready! Let's do this
 
-Awesome! Make your way over to [the onboarding guide](/docs/onboarding-guide.md)
+Awesome! Make your way over to [the onboarding guide](/onboarding-guide.md)
 for information on how the group operates and how to jump in. If you have any
 questions or there is something this document has no answered for you, please
 [open an issue](https://github.com/openwichita/ow-docs/issues/new) and let us
