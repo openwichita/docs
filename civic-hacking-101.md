@@ -19,16 +19,16 @@ source technologies.
 ## I need an example..
 
 In Indianapolis, civic hackers created [a tool to visualize and make sense of
-police accountability data](comport-story). It's [open source](comport-gh), it's
-[in production with data from two cities](comport-site), and ready for more
+police accountability data][comport-story]. It's [open source][comport-gh], it's
+[in production with data from two cities][comport-site], and ready for more
 communities to jump on board!
 
 This is a perfect example of civic hacking -- community members collaborating
 with city officials to create something locally impactful and sharing the
 culmination of that work so others communities can benefit as well.
 
-There are [plenty more examples](more-examples) of [awesome civic tech
-projects](awesome-projects), and it's still **just getting started**.
+There are [plenty more examples][more-examples] of [awesome civic tech
+projects][awesome-projects], and it's still **just getting started**.
 
 [comport-story]: https://www.codeforamerica.org/blog/2015/12/04/comport-open-police-data-in-indianapolis-and-beyond/
 [comport-gh]: https://github.com/codeforamerica/comport
