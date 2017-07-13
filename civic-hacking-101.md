@@ -27,9 +27,14 @@ This is a perfect example of civic hacking -- community members collaborating
 with city officials to create something locally impactful and sharing the
 culmination of that work so others communities can benefit as well.
 
+There are [plenty more examples](more-examples) of [awesome civic tech
+projects](awesome-projects), and it's still **just getting started**.
+
 [comport-story]: https://www.codeforamerica.org/blog/2015/12/04/comport-open-police-data-in-indianapolis-and-beyond/
 [comport-gh]: https://github.com/codeforamerica/comport
 [comport-site]: https://www.projectcomport.org/
+[more-examples]: https://medium.com/code-for-america
+[awesome-projects]: https://github.com/codeforamerica
 
 ## Tools of the trade
 
