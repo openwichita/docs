@@ -10,6 +10,5 @@ Topics we can help with:
 # Roster
 *Listed in alphabetical order*
 * [Seth Etter](https://github.com/sethetter) - seth@openwichita.com
-* Britten Kuckleman - britten@openwichita.com
 * [Michael Neth](https://github.com/infernocloud) - michael@openwichita.com
 * [Kayla Vix](https://github.com/kaylavix) - kayla@openwichita.com
