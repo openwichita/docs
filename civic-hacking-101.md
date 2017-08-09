@@ -99,6 +99,5 @@ should really [watch this video](civic-hacking-101-video) that does a much
 better job of explaining in more depth the world of civic hacking and why it's
 so awesome.
 
-Do it, [watch the video](civic-hacking-101-video). You won't reget it.
-
-[civic-hacking-101-video]: https://www.youtube.com/watch?v=EghfAxah9YQ
+Do it, [watch the video](https://www.youtube.com/watch?v=EghfAxah9YQ). You
+won't regret it.
