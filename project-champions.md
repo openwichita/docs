@@ -71,6 +71,7 @@ tech-driven projects that create local impact. What more could you ask for?
   - Update Slack channel topic with most relevant link (github or beta site).
 - **Nearing Completion**
   - Share beta version of project with #general slack channel for looking over/suggestions.
+    - Define a list of things for people to do to test out the project.
   - Share project with connected stakeholders for feedback.
 - **Launch!**
   - Coordinate launch with [Open Wichita Captains](https://github.com/openwichita/docs/blob/master/captains.md#roster) for social media shoutouts.
